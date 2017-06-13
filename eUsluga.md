@@ -13,3 +13,4 @@ Elektroniczną Platformę Usług Administracji Publicznej
 Profil Zaufany
 
 - [ ] |eUsluga_PZ.md|ja| 07 lipca|
+Kamil Nowak pozdrawia wszystkie Panie!
